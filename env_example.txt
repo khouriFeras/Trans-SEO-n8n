@@ -1,0 +1,5 @@
+# Copy this to .env file
+OPENAI_API_KEY=sk-your-openai-api-key-here
+PRODUCT_CONTEXT=tools and equipment
+SAMPLE_SIZE=2
+
