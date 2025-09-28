@@ -91,7 +91,7 @@ The system works with Google Sheets containing these columns:
 | --------------- | -------- | ------------------------------ |
 | `Title`       | ✅       | Product name in English        |
 | `Body (HTML)` | ✅       | Product description in English |
-| `Brand`       | ❌       | Brand name (optional)          |
+| `Brand`       | ❌       | Brand name (optional but recommanded )|
 | `Category`    | ❌       | Product category (optional)    |
 | `SKU`         | ❌       | Product SKU (optional)         |
 
